@@ -1,0 +1,6 @@
+names:
+  0: pingpong
+nc: 1
+path: /app/pydev_demo/02_usb_camera_sample/pingpong_yolov5
+train: images/train
+val: images/val
